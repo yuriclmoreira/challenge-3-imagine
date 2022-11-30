@@ -4,7 +4,7 @@ const result = document.getElementById("result");
 function awaitAfter3Seconds() {
   return new Promise((resolve) => {
     setTimeout(() => {
-      resolve("<h2>Voçê conseguiu!</h2>");
+      resolve("<h2>Você conseguiu!</h2>");
     }, 3000);
   });
 }
