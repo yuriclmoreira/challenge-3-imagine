@@ -1,4 +1,4 @@
-> Status: Desenvolvimento ✅
+> Status: Finalizado ✅
 
 # Objetivo 
 Desenvolver uma função assíncrona utilizando o async/await do javascript. A função deverá exibir em tela um texto depois de clicado no botão, em um modal, a demora para exibir o texto dentro do modal e de 3s.
